@@ -1,0 +1,9 @@
+# Meta Config
+description = "Hello"
+
+# Header Configuration
+# avatar = "img/profile-picture.jpg"
+avatar = "img/pic.jpg"
+
+[emoji]
+enableEmoji = true
